@@ -3,7 +3,6 @@ layout: default
 title: My Markdown Resume
 permalink: /
 ---
-# GREG SCAFFIDI
 (512) 766-3736 | [sgscaffidi3@gmail.com](mailto:sgscaffidi3@gmail.com) | Austin, TX | [linkedin.com/in/sgscaffidi3](https://linkedin.com/in/sgscaffidi3)
 
 ---
